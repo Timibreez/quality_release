@@ -131,7 +131,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="base_url" elementType="Argument">
               <stringProp name="Argument.name">base_url</stringProp>
-              <stringProp name="Argument.value">timsapp-appservice.azurewebsites.net</stringProp>
+              <stringProp name="Argument.value">maryamapp-appservice.azurewebsites.net</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
           </collectionProp>
